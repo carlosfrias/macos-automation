@@ -1,0 +1,9 @@
+{
+  "name": "macos-automation",
+  "version": "1.0.0",
+  "pi": {
+    "skills": [
+      "./skills/macos-automation"
+    ]
+  }
+}
